@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Goblin</string>
+    <string name="a11y_description">Reel Goblin floats a cute monster over Instagram and YouTube and counts the reels you watch. Everything stays on your phone. There is no internet access and no login.</string>
+</resources>
